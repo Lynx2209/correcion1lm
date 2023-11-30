@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            text-align: center;
+            }
+        
+
+        h1{
+            color: #333;
+        }
+
+        .img {
+           margin-top: 20px
+           
+        }
+        
+        .punto:hover{
+			
+		   width: 350px;
+		   height: 250px;
+		   margin: 0 2px;
+           transform: scale(2);
+		}
+
+        el {
+           
+            padding: 0;
+        }
+
+        li {
+            margin: 10px ;
+        }
+
+       .p{
+	       height: 10%;
+	     
+	   }
+	   
+	   .conteiner{
+		   
+		   display: flex;
+		   justify-content: center;
+	   }
+	   ;
